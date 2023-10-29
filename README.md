@@ -1,9 +1,12 @@
 ## Conda virtual enviroment
 
-'''conda create -p env python=3.11.5 -y
+'''
+conda create -p env python=3.11.5 -y   
+'''
 
-''' ./env
+
+''' ./env   '''
 
 ## git command
 
-''' git init
+''' git init  '''
